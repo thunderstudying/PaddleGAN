@@ -1,4 +1,4 @@
 # hello-world
-the first repository
+The First Repository
 Hi Humans!
 I'm learning coding.And now I'm a junior.
