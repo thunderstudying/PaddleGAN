@@ -6,5 +6,5 @@ some results are displayed below
 ![cartoon](https://github.com/thunderstudying/PaddleGAN/blob/master/pics/cartoon.png)
 [code](https://github.com/thunderstudying/PaddleGAN/blob/master/paddleGAN-2.ipynb)
 
-![number generation](https://github.com/thunderstudying/PaddleGAN/blob/master/pics/number generation.png)
+![number generation](https://github.com/thunderstudying/PaddleGAN/blob/master/pics/number%20generation.png)
 [code](https://github.com/thunderstudying/PaddleGAN/blob/master/PaddleGAN-3.ipynb)
