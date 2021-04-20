@@ -1,4 +1,2 @@
-# hello-world
-The First Repository
-Hi Humans!
-I'm learning coding.And now I'm a junior.
+# PaddleGAN
+This repository storing project about PaddleGAN
