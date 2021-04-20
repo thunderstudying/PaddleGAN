@@ -1,5 +1,5 @@
 # PaddleGAN
-This repository storing project about [PaddleGAN](https://aistudio.baidu.com/aistudio/education/group/info/16651)
+This repository stores project about [PaddleGAN](https://aistudio.baidu.com/aistudio/education/group/info/16651)
 
 some results are displayed below
 
