@@ -4,5 +4,7 @@ This repository stores project about [PaddleGAN](https://aistudio.baidu.com/aist
 some results are displayed below
 
 ![cartoon](https://github.com/thunderstudying/PaddleGAN/blob/master/pics/cartoon.png)
+[code](https://github.com/thunderstudying/PaddleGAN/blob/master/paddleGAN-2.ipynb)
 
-![number generation](https://github.com/thunderstudying/PaddleGAN/blob/master/pics/%E6%95%B0%E5%AD%97%E7%94%9F%E6%88%90.png)
+![number generation](https://github.com/thunderstudying/PaddleGAN/blob/master/pics/number generation.png)
+[code](https://github.com/thunderstudying/PaddleGAN/blob/master/PaddleGAN-3.ipynb)
