@@ -1,7 +1,7 @@
 # PaddleGAN
 This repository stores project about [PaddleGAN](https://aistudio.baidu.com/aistudio/education/group/info/16651)
 
-[reality to cartoon](https://github.com/thunderstudying/PaddleGAN/blob/master/paddleGAN-2.ipynb)
+[reality to cartoon](./jupyternotebook/paddleGAN-2.ipynb)
 
 [number generation](https://github.com/thunderstudying/PaddleGAN/blob/master/PaddleGAN-3.ipynb)
 
