@@ -13,7 +13,7 @@ This repository stores project about [PaddleGAN](https://aistudio.baidu.com/aist
 
 [face generation]()
 
-[number generation](https://github.com/thunderstudying/PaddleGAN/blob/master/PaddleGAN-2.ipynb)
+[number generation](./jupyternotebook/PaddleGAN-2.ipynb)
 
 some results are displayed below
 
