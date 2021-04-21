@@ -1,13 +1,13 @@
 # PaddleGAN
 This repository stores project about [PaddleGAN](https://aistudio.baidu.com/aistudio/education/group/info/16651)
 
-[super resolution]((./jupyternotebook/PaddleGAN-6.ipynb)
+[super resolution](./jupyternotebook/PaddleGAN-6.ipynb)
 
 [lip-syncing]()
 
 [movement migration](./jupyternotebook/PaddleGAN-5.ipynb)
 
-[old video repaire]((./jupyternotebook/PaddleGAN-4.ipynb)
+[old video repaire](./jupyternotebook/PaddleGAN-4.ipynb)
 
 [reality to cartoon](./jupyternotebook/PaddleGAN-3.ipynb)
 
@@ -23,6 +23,6 @@ some results are displayed below
 
 ![video repaire](./pics/moderntimes_output.gif)
 
-![cartoon](https://github.com/thunderstudying/PaddleGAN/blob/master/pics/cartoon.png)
+![cartoon](./pics/cartoon.png)
 
-![number generation](https://github.com/thunderstudying/PaddleGAN/blob/master/pics/number%20generation.png)
+![number generation](./pics/number%20generation.png)
