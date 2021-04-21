@@ -1,5 +1,5 @@
 # PaddleGAN
-This repository stores project about [PaddleGAN](https://aistudio.baidu.com/aistudio/education/group/info/16651)
+This repository stores project about [PaddleGAN Course](https://aistudio.baidu.com/aistudio/education/group/info/16651), which **help you use GAN in 7 days**. Requiring only several line code to achieve many interesting applications, including data generation, cartoonlization, video repairing, movement migration, super resolution, image translation and so on. If you want to get through interesting applications, go and see [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)
 
 ## Applicaion
 
