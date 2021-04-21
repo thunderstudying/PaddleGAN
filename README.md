@@ -15,7 +15,11 @@ This repository stores project about [PaddleGAN](https://aistudio.baidu.com/aist
 
 [number generation](./jupyternotebook/PaddleGAN-2.ipynb)
 
+[face generation](./jupyternotebook/PaddleGAN-1.ipynb)
+
 some results are displayed below
+
+![super resolution](./pics/super%20resolution.png)
 
 ![movement migration](./pics/movement%20migration.gif)
 
@@ -26,3 +30,5 @@ some results are displayed below
 ![cartoon](./pics/cartoon.png)
 
 ![number generation](./pics/number%20generation.png)
+
+![fance generation](./pics/face%20generation.png)
