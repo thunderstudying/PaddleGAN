@@ -21,7 +21,7 @@ This repository stores project about [PaddleGAN Course](https://aistudio.baidu.c
 
 ![movement migration](./pics/movement%20migration.gif)
 
-### Old ideo repair
+### Old video repair
 
 ![old video](./pics/moderntimes.gif)
 
